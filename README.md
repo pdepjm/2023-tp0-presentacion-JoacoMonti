@@ -1,6 +1,7 @@
 # Joaquin Montagnese
 
 Buenas!! Soy Joaquin, tengo 20 años y estoy cursando segundo año.
+Legajo: 203.870-5
 
 Algunas cosas sobre mí:
 - Soy de Boquita el mas grande.
